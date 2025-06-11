@@ -1,4 +1,3 @@
-# Apex_t1
 
 # ApexTask1 – Internship Task
 
